@@ -1,0 +1,901 @@
+{
+  "title": ["Scientific American"],
+  "link": ["http://www.scientificamerican.com"],
+  "description": [
+    "Science news and technology updates from Scientific American"
+  ],
+  "image": [
+    {
+      "url": [
+        "https://static.scientificamerican.com/sciam/assets/Image/newsletter/salogo.png"
+      ],
+      "title": ["Scientific American"],
+      "link": ["http://www.scientificamerican.com"]
+    }
+  ],
+  "pubDate": ["Tue, 12 Oct 2021 19:58:40 GMT"],
+  "language": ["en-us"],
+  "copyright": [
+    "Scientific American, a Division of Springer Nature America, Inc."
+  ],
+  "itunes:author": ["Scientific American"],
+  "item": [
+    {
+      "title": ["Readers Respond to the April 2021 Issue"],
+      "link": [
+        "https://www.scientificamerican.com/article/readers-respond-to-the-april-2021-issue/"
+      ],
+      "guid": [
+        {
+          "_": "5A0BE54C-5056-4B70-BCBC0C78CD34E8C7",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Sat, 28 Aug 2021 13:00:00 GMT"],
+      "description": [
+        "<p>Letters to the editor from the April 2021 issue of <em>Scientific American</em></p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/2320CC4C-BC4F-4877-98A6303814D02770_source.jpg",
+            "fileSize": "552422",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": ["<em>Scientific American</em>, April 2021"]
+        }
+      ],
+      "category": ["Letters", "Policy", "The Sciences"]
+    },
+    {
+      "title": ["Poem: 'Elizabeth Cabot Agassiz (1822–1907)'"],
+      "link": [
+        "https://www.scientificamerican.com/article/poem-elizabeth-cabot-agassiz-1822-1907/"
+      ],
+      "guid": [
+        {
+          "_": "F3ED746E-7885-4CDA-9A677C4C1DB1FB83",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Sat, 21 Aug 2021 13:00:00 GMT"],
+      "description": ["<p>Science in meter and verse</p>"],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/0D88B9F0-F7A1-494F-95A802411A874FC5_source.jpg",
+            "fileSize": "148473",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": [
+            "Bruce Shafer <em>Stocktrek Images and Science Source</em>"
+          ]
+        }
+      ],
+      "dc:creator": ["Jessy Randall"],
+      "category": ["Meter", "Culture", "The Sciences"]
+    },
+    {
+      "title": ["In Case You Missed It"],
+      "link": [
+        "https://www.scientificamerican.com/article/in-case-you-missed-it50/"
+      ],
+      "guid": [
+        {
+          "_": "CC501279-6A50-4199-BC22D47B92D08251",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Sat, 14 Aug 2021 13:00:00 GMT"],
+      "description": ["<p>Top news from around the world</p>"],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/03DD0152-5C33-4601-8E85DDE846584349_source.png",
+            "fileSize": "121246",
+            "type": "image/png",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": ["NASA"]
+        }
+      ],
+      "dc:creator": ["Maddie Bender"],
+      "category": ["Advances", "Policy", "The Sciences"]
+    },
+    {
+      "title": ["One Head, 1,000 Rear Ends: The Tale of a Deeply Weird Worm"],
+      "link": [
+        "https://www.scientificamerican.com/article/one-head-1-000-rear-ends-the-tale-of-a-deeply-weird-worm/"
+      ],
+      "guid": [
+        {
+          "_": "631BE909-4E9C-40E9-B3914A14E236CA40",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Sun, 08 Aug 2021 14:00:00 GMT"],
+      "description": [
+        "<p><em>Ramisyllis multicaudata</em> is an animal that seems to have adopted the lifestyle of a fungus</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/7E390233-B40A-4226-A23D7F2F918FF608_source.jpg",
+            "fileSize": "222653",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": ["Sarah Faulwetter <em>Wikimedia</em>"]
+        }
+      ],
+      "dc:creator": ["Jennifer Frazer"],
+      "category": ["Biology", "The Sciences"]
+    },
+    {
+      "title": ["O UFOs, Where Art Thou?"],
+      "link": [
+        "https://www.scientificamerican.com/article/o-ufos-where-art-thou/"
+      ],
+      "guid": [
+        {
+          "_": "82ADF5B4-6A8B-45C1-9563A9E95955BA54",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 05 Aug 2021 19:00:00 GMT"],
+      "description": [
+        "<p>Five reasons why sorting all of this out is so scientifically challenging</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/E8AEC26E-D301-43BA-9B67605803EEE428_source.jpg",
+            "fileSize": "4659602",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": ["Artem Peteriatko<em> Getty Images</em>"]
+        }
+      ],
+      "dc:creator": ["Caleb A. Scharf"],
+      "category": ["Space & Physics", "The Sciences"]
+    },
+    {
+      "title": ["50, 100 & 150 Years Ago: August 2021"],
+      "link": [
+        "https://www.scientificamerican.com/article/50-100-150-years-ago-august-2021/"
+      ],
+      "guid": [
+        {
+          "_": "08614AD1-A632-4DCC-B0468199275072B3",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Sun, 01 Aug 2021 13:00:00 GMT"],
+      "description": ["<p>Tasty radio; early fake leather</p>"],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/FBEC0904-AC59-46A0-87B951DF05B0AA98_source.jpg",
+            "fileSize": "128569",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "<strong>1921:</strong> &ldquo;The &lsquo;solar wind&rsquo; of particles sweeps the earth's magnetic field into a magnetosphere (<em>gray</em>). It in turn causes a shock front (<em>red</em>). When the moon is in the magnetosphere, its magnetic environment is dominated by the earth's. The intermediate magnetosheath (<em>light-colored area</em>) has erratic solar-particle flow and the most turbulent fields of the lunar orbit.&rdquo;",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": [
+            "<strong>Dan Todd; <em>Scientific American</em></strong>, Vol. 225, No. 2; August 1971"
+          ]
+        }
+      ],
+      "dc:creator": ["Mark Fischetti"],
+      "category": ["50, 100 & 150 Years Ago", "Policy", "The Sciences"]
+    },
+    {
+      "title": ["The Human Framework for Alien Life"],
+      "link": [
+        "https://www.scientificamerican.com/article/the-human-framework-for-alien-life/"
+      ],
+      "guid": [
+        {
+          "_": "7482DBC2-E017-4F1C-89A9A9D5BBC17E7C",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 29 Jul 2021 13:30:00 GMT"],
+      "description": [""],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/9F59BB15-D238-40E2-A1CCB7091260F36C_source.jpg",
+            "fileSize": "794502",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": [
+            "<em>Scientific American Space &amp; Physics</em>, Aug-Sep 2021; U.S. Department of Defense"
+          ]
+        }
+      ],
+      "dc:creator": ["Andrea Gawrylewski"],
+      "category": ["From the Editor", "Space & Physics", "The Sciences"]
+    },
+    {
+      "title": ["Why So Many Young People Hate STEM Courses"],
+      "link": [
+        "https://www.scientificamerican.com/article/why-so-many-young-people-hate-stem-courses/"
+      ],
+      "guid": [
+        {
+          "_": "51E533F8-104F-4B24-84BC04886B3DC04D",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Wed, 28 Jul 2021 19:00:00 GMT"],
+      "description": [
+        "<p>Take it from someone who almost gave up on her dream of being a scientist</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/89721C24-20E1-4FD6-A42D0A585D7ED7D1_source.jpg",
+            "fileSize": "3612769",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": ["Getty Images"]
+        }
+      ],
+      "dc:creator": ["Rhea Wanchoo"],
+      "category": ["Behavior", "The Sciences"]
+    },
+    {
+      "title": [
+        "NASA Investigates Renaming James Webb Space Telescope after Anti-LGBT+ Claims"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/nasa-investigates-renaming-james-webb-space-telescope-after-anti-lgbt-claims/"
+      ],
+      "guid": [
+        {
+          "_": "832C6AA1-663C-4679-8D002FE83A081E9F",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 26 Jul 2021 19:00:00 GMT"],
+      "description": [
+        "<p>Some astronomers argue the space agency&rsquo;s next flagship observatory will memorialize discrimination. Others are waiting for more evidence</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/C584865C-4CC8-4B91-A61B659F245C497D_source.jpeg",
+            "fileSize": "362297",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "The James Webb Space Telescope, which is scheduled to launch this year.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Chris Gunn <em>NASA</em>"]
+        }
+      ],
+      "dc:creator": ["Alexandra Witze, Nature magazine"],
+      "category": ["Policy", "Space & Physics", "The Sciences"]
+    },
+    {
+      "title": ["Quantum Mechanics, Plato's Cave and the Blind Piranha"],
+      "link": [
+        "https://www.scientificamerican.com/article/quantum-mechanics-platos-cave-and-the-blind-piranha/"
+      ],
+      "guid": [
+        {
+          "_": "1CFA85EB-F668-4EBB-83E173E18BD81695",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Sat, 24 Jul 2021 14:00:00 GMT"],
+      "description": ["<p>Can we ever really know the world?</p>"],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/84924C0F-5580-4E0B-B7AC9AB1C30DE0A6_source.jpg",
+            "fileSize": "4155259",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": ["Getty Images"]
+        }
+      ],
+      "dc:creator": ["John Horgan"],
+      "category": ["Cognition", "The Sciences"]
+    },
+    {
+      "title": ["For Good Science, You Need Engaged Citizens"],
+      "link": [
+        "https://www.scientificamerican.com/article/for-good-science-you-need-engaged-citizens/"
+      ],
+      "guid": [
+        {
+          "_": "B7B48B45-6C00-4274-8E0925AC5F8F0474",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 22 Jul 2021 13:00:00 GMT"],
+      "description": [
+        "They strengthen the institutions that ensure a strong democracy, leading to rational decisions"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/3FD54312-E2CE-425E-80D5F7F34FCF5993_source.jpg",
+            "fileSize": "4867796",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": ["Jeff Greenberg <em>Getty Images</em>"]
+        }
+      ],
+      "dc:creator": ["Gregory E. Kaebnick, Michael K. Gusmano"],
+      "category": ["Policy", "The Sciences"]
+    },
+    {
+      "title": [
+        "These Dinosaurs Had a Complicated Air Conditioner in Their Skull"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/video/these-dinosaurs-had-a-complicated-air-conditioner-in-their-skull/"
+      ],
+      "guid": [
+        {
+          "_": "FD6AC625-686A-48AB-A663A81C30DD2DAC",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Wed, 21 Jul 2021 14:00:00 GMT"],
+      "description": [
+        "<p>Cooling 5,000-pound, armor-plated giants was no small feat.</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/C37E3BBB-3409-41E7-ABB3E812712BB983_source.jpg",
+            "fileSize": "1127646",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "A computer-generated view of the ankylosaur Euoplocephalus.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["WitmerLab at Ohio University"]
+        }
+      ],
+      "dc:creator": ["Aaron Martin"],
+      "category": ["Evolution", "The Sciences"]
+    },
+    {
+      "title": [
+        "Moths Have an Acoustic Invisibility Cloak to Stay under Bats' Radar"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/podcast/episode/moths-have-an-acoustic-invisibility-cloak-to-stay-under-bats-radar/"
+      ],
+      "guid": [
+        {
+          "_": "F23E6821-9C85-4516-B094999D0FFE0B98",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Wed, 21 Jul 2021 12:00:00 GMT"],
+      "description": [
+        "<p>New research finds they fly around on noise-cancelling wings</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/7596808A-AB7E-45F8-B1B97883484F9C6C_source.jpg",
+            "fileSize": "3790478",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "Extreme magnification of moth wing scales.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Getty Images"]
+        }
+      ],
+      "dc:creator": ["Karen Hopkin"],
+      "enclosure": [
+        {
+          "$": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=C5E9F496-9849-477E-8F3FF2D4A8DD582E",
+            "length": "3989959",
+            "type": "audio/mpeg"
+          }
+        }
+      ],
+      "itunes:duration": ["02:45"],
+      "itunes:author": ["Scientific American"],
+      "category": ["Evolution", "The Sciences"]
+    },
+    {
+      "title": [
+        "Hardy Microbes Hint at Possibilities for Extraterrestrial Life"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/hardy-microbes-hint-at-possibilities-for-extraterrestrial-life/"
+      ],
+      "guid": [
+        {
+          "_": "400F2788-74C9-4305-9AA89B74E5F6FBF6",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Wed, 21 Jul 2021 10:45:00 GMT"],
+      "description": [
+        "<p>Studies of extreme ecosystems on Earth can guide the search for Martian life and may reveal the fundamental limits of biology</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/5241EA38-8A3A-4B64-AD84A78CE5EF08FB_source.jpg",
+            "fileSize": "19868940",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "Vivid colors of Yellowstone National Park&rsquo;s Grand Prismatic Spring come from various populations of heat-loving microorganisms that thrive in the high-temperature water. Such extreme ecosystems could offer vital clues to astrobiologists searching for extraterrestrial life.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Peter Adams <em>Getty Images</em>"]
+        }
+      ],
+      "dc:creator": ["Brianne Palmer"],
+      "category": ["Biology", "Space & Physics", "The Sciences"]
+    },
+    {
+      "title": [
+        "Jeff Bezos Launches into Space on Blue Origin's First Astronaut Flight"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/jeff-bezos-launches-into-space-on-blue-origins-first-astronaut-flight/"
+      ],
+      "guid": [
+        {
+          "_": "E4859CDF-2D14-4B64-A9A5B2EE6361CA5D",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Tue, 20 Jul 2021 15:30:00 GMT"],
+      "description": [
+        "<p>The billionaire and three others take a suborbital trip onboard the craft <em>New Shepard</em></p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/7CEC02BC-60B1-4402-B7C80460C7BD1181_source.jpg",
+            "fileSize": "926907",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "The New Shepard Blue Origin rocket lifts-off from the launch pad carrying Jeff Bezos along with his brother Mark Bezos, 18-year-old Oliver Daemen, and 82-year-old Wally Funk prepare to launch on July 20, 2021 in Van Horn, Texas.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Joe Raedle <em>Getty Images</em>"]
+        }
+      ],
+      "dc:creator": ["Mike Wall, SPACE.com"],
+      "category": ["Space & Physics", "The Sciences"]
+    },
+    {
+      "title": ["Behold the 'Borg': Massive DNA Structures Perplex Scientists"],
+      "link": [
+        "https://www.scientificamerican.com/article/behold-the-borg-massive-dna-structures-perplex-scientists/"
+      ],
+      "guid": [
+        {
+          "_": "51996C7C-FB34-4E07-B67BB7AE0339C91A",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Tue, 20 Jul 2021 15:00:00 GMT"],
+      "description": [
+        "<p>Researchers say they have discovered unique and exciting DNA strands in the mud; others are not sure of their novelty</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/D0F043F8-2527-4CF3-B52D2D34C1172F0B_source.jpg",
+            "fileSize": "1046766",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "Borgs seem to be associated with single-celled microorganisms known as archaea, shown in this scanning-electron microscopy image of Sulfolobus sp. archaea.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Science Source"]
+        }
+      ],
+      "dc:creator": ["Amber Dance, Nature magazine"],
+      "category": ["Biology", "The Sciences"]
+    },
+    {
+      "title": ["Play Is Serious Business for Elephants"],
+      "link": [
+        "https://www.scientificamerican.com/article/play-is-serious-business-for-elephants/"
+      ],
+      "guid": [
+        {
+          "_": "9B8DBDBA-B83E-469C-BE4F9FC056549C86",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Tue, 20 Jul 2021 13:30:00 GMT"],
+      "description": [
+        "<p>Young dogs, apes and other animals develop skills needed to survive and reproduce</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/B3053783-52AE-4C66-A0AD21396E43A9FC_source.jpg",
+            "fileSize": "739775",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": ["Martin Harvey <em>Getty Images</em>"]
+        }
+      ],
+      "dc:creator": ["Caitlin O'Connell"],
+      "category": ["Features", "Biology", "The Sciences"]
+    },
+    {
+      "title": ["Jeff Bezos and Blue Origin Are Finally Flying to Space"],
+      "link": [
+        "https://www.scientificamerican.com/article/jeff-bezos-and-blue-origin-are-finally-flying-to-space/"
+      ],
+      "guid": [
+        {
+          "_": "6B88F6F2-D0E3-4253-9D90C9CEF64D969B",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 19 Jul 2021 19:00:00 GMT"],
+      "description": [
+        "<p>After nearly twenty years pursuing a lifelong dream of spaceflight, the world&rsquo;s wealthiest person is at last ready for lift off</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/7B7F7EB4-29B4-48FF-AE01F28DC0982C23_source.jpeg",
+            "fileSize": "549697",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "Blue Origin&rsquo;s New Shepard suborbital vehicle lifts off from its launchpad during a test flight on December 11, 2019.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Blue Origin"]
+        }
+      ],
+      "dc:creator": ["Mike Wall, SPACE.com"],
+      "category": ["Space & Physics", "The Sciences"]
+    },
+    {
+      "title": ["The Idea That Trees Talk to Cooperate Is Misleading"],
+      "link": [
+        "https://www.scientificamerican.com/article/the-idea-that-trees-talk-to-cooperate-is-misleading/"
+      ],
+      "guid": [
+        {
+          "_": "E3EA7AFE-DA76-4C54-98CCA6AAB5C1BE01",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 19 Jul 2021 14:00:00 GMT"],
+      "description": [
+        "<p>It&rsquo;s a romantic notion, but pretending they&rsquo;re like humans could actually harm the cause of conservation</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/B138306C-B6BE-40DB-925471A06A9DEE3A_source.jpg",
+            "fileSize": "4461336",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": ["Getty Images"]
+        }
+      ],
+      "dc:creator": ["Kathryn Flinn"],
+      "category": ["Biology", "The Sciences"]
+    },
+    {
+      "title": [
+        "Poem: 'Lesson from the West African Lungfish (Protopterus annectens)'"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/poem-lesson-from-the-west-african-lungfish-protopterus-annectens/"
+      ],
+      "guid": [
+        {
+          "_": "711DB8B2-E2FD-4E17-9E938C4216CA46C0",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Sat, 17 Jul 2021 13:00:00 GMT"],
+      "description": ["<p>Science in meter and verse</p>"],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/EE9CD76A-C71F-45FA-9532AA3A45831B52_source.jpg",
+            "fileSize": "76812",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:credit": [
+            "Joel Sartore National <em>Geographic Photo Ark</em>"
+          ]
+        }
+      ],
+      "dc:creator": ["Christina Olson"],
+      "category": ["Meter", "Culture", "The Sciences"]
+    },
+    {
+      "title": [
+        "New Approach Could Boost the Search for Life in Otherworldly Oceans"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/new-approach-could-boost-the-search-for-life-in-otherworldly-oceans/"
+      ],
+      "guid": [
+        {
+          "_": "25B46B5E-941C-498C-A3651D2822694637",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Fri, 16 Jul 2021 10:45:00 GMT"],
+      "description": [
+        "<p>&ldquo;Ecological biosignatures&rdquo; hold promise for revealing alien organisms that may dwell within icy moons such as Jupiter&rsquo;s Europa and Saturn&rsquo;s Enceladus</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/B5FA2D5A-81F8-46DD-8AD69F186947B16C_source.jpeg",
+            "fileSize": "4318905",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "An artist's depiction of an autonomous submersible diving into Europa's ocean through a hypothetical surface fissure.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": [
+            "Loren A. Roberts for the Planetary Society   (CC BY 3.0)"
+          ]
+        }
+      ],
+      "dc:creator": ["Natalie Elliot"],
+      "category": ["Space & Physics", "The Sciences"]
+    },
+    {
+      "title": ["Spiders on Tiny Treadmills Give Scientists the Side-Eye"],
+      "link": [
+        "https://www.scientificamerican.com/article/spiders-on-tiny-treadmills-give-scientists-the-side-eye/"
+      ],
+      "guid": [
+        {
+          "_": "D0AAC0F0-563E-42FB-8CDF16FBCCF158E9",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 15 Jul 2021 18:00:00 GMT"],
+      "description": [
+        "<p>Jumping spiders see more in their periphery than previously known</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/F508BCC3-F59F-4441-92E548D51670A3F1_source.jpg",
+            "fileSize": "3578102",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "Jumping spiders are known for their unique behavior and sets of large, round eyes.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Alamy"]
+        }
+      ],
+      "dc:creator": ["Maddie Bender"],
+      "category": ["Biology", "The Sciences"]
+    },
+    {
+      "title": [
+        "New Space Radiation Limits Needed for NASA Astronauts, Report Says"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/new-space-radiation-limits-needed-for-nasa-astronauts-report-says/"
+      ],
+      "guid": [
+        {
+          "_": "42ACA4C8-BA71-47D6-865B3345788911FE",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Wed, 14 Jul 2021 15:30:00 GMT"],
+      "description": [
+        "<p>Although meant to minimize risks to human health, the proposed new limits would still be exceeded by any conceivable near-future crewed voyage to Mars</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/5A097F51-326A-4C43-A453904B98D55061_source.png",
+            "fileSize": "8549692",
+            "type": "image/png",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "Illustration of astronauts working on the Martian surface. New proposed limits on radiation exposure could complicate NASA&rsquo;s plans to send humans to Mars.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["NASA"]
+        }
+      ],
+      "dc:creator": ["Ramin Skibba"],
+      "category": ["Space & Physics", "The Sciences"]
+    },
+    {
+      "title": [
+        "What You Know about Trump's Assault on Science Was Just the Tip of the Iceberg"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/what-you-know-about-trumps-assault-on-science-was-just-the-tip-of-the-iceberg/"
+      ],
+      "guid": [
+        {
+          "_": "5446C8A4-C86F-41CE-B75BFA11648BC9D4",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Tue, 13 Jul 2021 16:00:00 GMT"],
+      "description": [
+        "<p><span style=\"background:white\">Help us reveal the rest</span></p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/B73732BB-0D7E-43C4-9B448AA295FF3BF9_source.jpg",
+            "fileSize": "2892473",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "Richard Bright, former head of the Biomedical Advanced Research and Development Authority, testifies before Congress on May 14, 2020.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Getty Images"]
+        }
+      ],
+      "dc:creator": ["Dana Gold, Lauren Kurtz"],
+      "category": ["Policy", "The Sciences"]
+    },
+    {
+      "title": ["The Case for Antiracism"],
+      "link": [
+        "https://www.scientificamerican.com/article/the-case-for-antiracism/"
+      ],
+      "guid": [
+        {
+          "_": "77823E8E-E34B-4297-8D20CBCE9298F593",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Tue, 13 Jul 2021 13:30:00 GMT"],
+      "description": [""],
+      "media:content": [
+        {
+          "$": {
+            "url": "https://static.scientificamerican.com/sciam/cache/file/9CCF1E62-3FCE-4E22-9BC5D54E1939E069_source.jpg",
+            "fileSize": "1455968",
+            "type": "image/jpeg",
+            "expression": "full",
+            "width": "790",
+            "height": "496"
+          },
+          "media:description": [
+            {
+              "_": "&quot;Resurrection City&quot; on the National Mall in 1968 was a live-in protest settlement.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Getty Images"]
+        }
+      ],
+      "dc:creator": ["Andrea Gawrylewski"],
+      "category": ["From the Editor", "Policy", "The Sciences"]
+    }
+  ]
+}
